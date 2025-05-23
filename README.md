@@ -68,8 +68,7 @@ Ensure you have **Node.js (v16+)** and **npm** installed.
 
 ### 🚀 Installation & Development
 
-git clone https://github.com/your-username/project-bolt.git
-cd project-bolt/project
+git clone https://github.com/Yaswitha-Reddy/Authentication--Devop.git
 npm install
 npm run dev
 Visit http://localhost:5173 to view your app.
